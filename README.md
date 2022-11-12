@@ -1,6 +1,6 @@
 # Hand-Gesture-Recognition
 
-This relatively simple algorithm is basically able to discern the number of open fingers of a hand present in the input image. The first step is to separate the skin pixels from the rest of the image.
+This algorithm is basically able to discern the number of open fingers of a hand present in the input image. The first step is to separate the skin pixels from the rest of the image.
 
 ## Skin-Pixel Detection
 
